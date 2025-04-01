@@ -126,3 +126,39 @@ music = {
         base = 10
 	}
 }
+music = {
+	song = "PPP_Double_Rainbow"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Exellent"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Girls_Code"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Setsunai_Sandglass"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Kizuna_Music"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Home_Street"
+	chance = {
+        base = 10
+	}
+}

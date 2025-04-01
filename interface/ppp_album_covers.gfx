@@ -99,4 +99,34 @@ spriteTypes = {
 		texturefile = "gfx/ppp_cover/Light_Delight.png"
 		legacy_lazy_load = no
 	}
+	spriteType = {
+		name = "GFX_ppp_Double_Rainbow"
+		texturefile = "gfx/ppp_cover/Double_Rainbow.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Exellent"
+		texturefile = "gfx/ppp_cover/Exellent.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Girls_Code"
+		texturefile = "gfx/ppp_cover/Girls_Code.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Setsunai_Sandglass"
+		texturefile = "gfx/ppp_cover/Setsunai_Sandglass.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Kizuna_Music"
+		texturefile = "gfx/ppp_cover/Kizuna_Music.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Home_Street"
+		texturefile = "gfx/ppp_cover/Home_Street.png"
+		legacy_lazy_load = no
+	}
 }

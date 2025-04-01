@@ -104,3 +104,34 @@ music = {
 	file = "PPP_Light_Delight.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "PPP_Double_Rainbow"
+	file = "PPP_Double_Rainbow.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Exellent"
+	file = "PPP_Exellent.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Girls_Code"
+	file = "PPP_Girls_Code.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Setsunai_Sandglass"
+	file = "PPP_Setsunai_Sandglass.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Kizuna_Music"
+	file = "PPP_Kizuna_Music.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Home_Street"
+	file = "PPP_Home_Street.ogg"
+	volume = 0.65
+}
