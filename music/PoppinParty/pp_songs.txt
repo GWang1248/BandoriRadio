@@ -1,26 +1,32 @@
 music_station = "radio_ppp_original"
 
 music = {
+	song = "maintheme"
+	chance = {
+		base = 0
+	}
+}
+music = {
 	song = "PPP_Yes_Bang_Dream"
 	chance = {
-        base = 20		
+        base = 10		
 	}
 }
 music = {
 	song = "PPP_Poppin_Shuffle"
 	chance = {
-        base = 20		
+        base = 10
 	}
 }
 music = {
 	song = "PPP_Star_Beat"
 	chance = {
-        base = 20		
+        base = 10
 	}
 }
 music = {
 	song = "PPP_Sun_Sun_Seven"
 	chance = {
-        base = 20
+        base = 10
 	}
 }
