@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
 
- radio_ag_TITLE:0 "“Afterglow”电台"
+ radio_ag_original_TITLE:0 "“Afterglow”原唱电台"
 
  AG_That_Is_How_I_Roll:0 "Afterglow - That Is How I Roll!\n\n\n\n\n\n£GFX_ag_that_is_how_i_roll\n\n\n\n\n\n\n"
  AG_True_Color:0 "Afterglow - True Color\n\n\n\n\n\n£GFX_ag_true_color\n\n\n\n\n\n\n"
@@ -21,3 +21,9 @@
  AG_Red_Red_Red:0 "Afterglow - RED RED RED\n\n\n\n\n\n£GFX_ag_red_red_red\n\n\n\n\n\n\n"
  AG_One_Of_Us:0 "Afterglow - ONE OF US\n\n\n\n\n\n£GFX_ag_one_of_us\n\n\n\n\n\n\n"
  AG_Off_We_Go:0 "Afterglow - Off We Go.\n\n\n\n\n\n£GFX_ag_off_we_go\n\n\n\n\n\n\n"
+ AG_Switch_On_Now:0 "Afterglow - SWITCH ON NOW\n\n\n\n\n\n£GFX_ag_switch_on_now\n\n\n\n\n\n\n"
+ AG_Trouble_Joyful:0 "Afterglow - Trouble Joyful!!\n\n\n\n\n\n£GFX_ag_trouble_joyful\n\n\n\n\n\n\n"
+ AG_Kanayume:0 "Afterglow - カナユメ\n\n\n\n\n\n£GFX_ag_kanayume\n\n\n\n\n\n\n"
+ AG_Dokusoushuusa:0 "Afterglow - 独創収差\n\n\n\n\n\n£GFX_ag_dokusoushuusa\n\n\n\n\n\n\n"
+ AG_Gokusaishiki:0 "Afterglow - 極彩色\n\n\n\n\n\n£GFX_ag_gokusaishiki\n\n\n\n\n\n\n"
+ AG_Sakura_Zensen:0 "Afterglow - サクラゼンセン\n\n\n\n\n\n£GFX_ag_sakura_zensen\n\n\n\n\n\n\n"

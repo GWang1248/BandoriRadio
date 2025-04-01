@@ -94,4 +94,34 @@ spriteTypes = {
 		texturefile = "gfx/ag_cover/Off_We_Go.png"
 		legacy_lazy_load = no
 	}
+	spriteType = {
+		name = "GFX_ag_switch_on_now"
+		texturefile = "gfx/ag_cover/Switch_On_Now.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_trouble_joyful"
+		texturefile = "gfx/ag_cover/Trouble_Joyful.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_kanayume"
+		texturefile = "gfx/ag_cover/Kanayume.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_dokusoushuusa"
+		texturefile = "gfx/ag_cover/Dokusoushuusa.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_gokusaishiki"
+		texturefile = "gfx/ag_cover/Gokusaishiki.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_sakura_zensen"
+		texturefile = "gfx/ag_cover/Sakura_Zensen.png"
+		legacy_lazy_load = no
+	}
 }

@@ -1,4 +1,4 @@
-music_station = "radio_ag"
+music_station = "radio_ag_original"
 
 music = {
 	song = "AG_That_Is_How_I_Roll"
@@ -110,6 +110,42 @@ music = {
 }
 music = {
 	song = "AG_Off_We_Go"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Switch_On_Now"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Trouble_Joyful"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Kanayume"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Dokusoushuusa"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Gokusaishiki"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Sakura_Zensen"
 	chance = {
         base = 10		
 	}
