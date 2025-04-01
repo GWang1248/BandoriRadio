@@ -2,7 +2,16 @@
 
  radio_ppp_original_TITLE:0 "“Poppin'Party”原唱电台"
 
- PPP_Yes_Bang_Dream:0 "Poppin'Party - Yes! BanG_Dream!\n\n\n\n\n\n£GFX_ppp_yes_bang_dream\n\n\n\n\n\n\n"
- PPP_Poppin_Shuffle:0 "Poppin'Party - ぽっぴん’しゃっふる\n\n\n\n\n\n£GFX_ppp_poppin_shuffle\n\n\n\n\n\n\n"
- PPP_Star_Beat:0 "Poppin'Party - STAR BEAT!〜ホシノコドウ〜\n\n\n\n\n\n£GFX_ppp_star_beat\n\n\n\n\n\n\n"
- PPP_Sun_Sun_Seven:0 "Poppin'Party - 夏空 SUN! SUN! SEVEN!\n\n\n\n\n\n£GFX_ppp_sun_sun_seven\n\n\n\n\n\n\n"
+ PPP_Yes_Bang_Dream:0 "Poppin'Party - Yes! BanG_Dream!\n\n\n\n\n\n£GFX_ppp_Yes_Bang_Dream\n\n\n\n\n\n\n"
+ PPP_Poppin_Shuffle:0 "Poppin'Party - ぽっぴん’しゃっふる\n\n\n\n\n\n£GFX_ppp_Poppin_Shuffle\n\n\n\n\n\n\n"
+ PPP_Star_Beat:0 "Poppin'Party - STAR BEAT!〜ホシノコドウ〜\n\n\n\n\n\n£GFX_ppp_Star_Beat\n\n\n\n\n\n\n"
+ PPP_Sun_Sun_Seven:0 "Poppin'Party - 夏空 SUN! SUN! SEVEN!\n\n\n\n\n\n£GFX_ppp_Sun_Sun_Seven\n\n\n\n\n\n\n"
+
+ PPP_Hashiri_Hazimetabakari_No_Kimini:0 "Poppin'Party - 走り始めたばかりのキミに\n\n\n\n\n\n£GFX_ppp_Hashiri_Hazimetabakari_No_Kimini:\n\n\n\n\n\n\n"
+ PPP_Teardrops:0 "Poppin'Party - ティアドロップス\n\n\n\n\n\n£GFX_ppp_Teardrops\n\n\n\n\n\n\n"
+ PPP_Tokimeki_Experience:0 "Poppin'Party - ときめきエクスペリエンス！\n\n\n\n\n\n£GFX_ppp_Tokimeki_Experience\n\n\n\n\n\n\n"
+ PPP_One_Thousand_Crying_Skies:0 "Poppin'Party - 1000回潤んだ空\n\n\n\n\n\n£GFX_ppp_One_Thousand_Crying_Skies\n\n\n\n\n\n\n"
+ PPP_Sing_Girls:0 "Poppin'Party - キラキラだとか夢だとか 〜Sing Girls〜\n\n\n\n\n\n£GFX_ppp_Sing_Girls\n\n\n\n\n\n\n"
+ PPP_Happy_Happy_Party:0 "Poppin'Party - Happy Happy Party!\n\n\n\n\n\n£GFX_ppp_Happy_Happy_Party\n\n\n\n\n\n\n"
+ PPP_Keep_On_Moving:0 "Poppin'Party - 前へススメ！\n\n\n\n\n\n£GFX_ppp_Keep_On_Moving\n\n\n\n\n\n\n"
+ PPP_Sunflower_Dreams:0 "Poppin'Party - 夢みるSunflower\n\n\n\n\n\n£GFX_ppp_Sunflower_Dreams\n\n\n\n\n\n\n"

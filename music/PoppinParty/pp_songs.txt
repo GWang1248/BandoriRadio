@@ -30,3 +30,51 @@ music = {
         base = 10
 	}
 }
+music = {
+	song = "PPP_Hashiri_Hazimetabakari_No_Kimini"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Teardrops"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Tokimeki_Experience"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_One_Thousand_Crying_Skies"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Sing_Girls"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Happy_Happy_Party"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Keep_On_Moving"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Sunflower_Dreams"
+	chance = {
+        base = 10
+	}
+}

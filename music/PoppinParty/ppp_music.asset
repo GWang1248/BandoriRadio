@@ -23,3 +23,43 @@ music = {
 	file = "PPP_Sun_Sun_Seven.ogg"
 	volume = 0.65
 }
+music = {
+	name = "PPP_Hashiri_Hazimetabakari_No_Kimini"
+	file = "PPP_Hashiri_Hazimetabakari_No_Kimini.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Teardrops"
+	file = "PPP_Teardrops.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Tokimeki_Experience"
+	file = "PPP_Tokimeki_Experience.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_One_Thousand_Crying_Skies"
+	file = "PPP_One_Thousand_Crying_Skies.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Sing_Girls"
+	file = "PPP_Sing_Girls.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Happy_Happy_Party"
+	file = "PPP_Happy_Happy_Party.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Keep_On_Moving"
+	file = "PPP_Keep_On_Moving.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Sunflower_Dreams"
+	file = "PPP_Sunflower_Dreams.ogg"
+	volume = 0.65
+}

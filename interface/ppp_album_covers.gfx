@@ -1,22 +1,63 @@
 spriteTypes = {
 	spriteType = {
-		name = "GFX_ppp_yes_bang_dream"
+		name = "GFX_ppp_Yes_Bang_Dream"
 		texturefile = "gfx/ppp_cover/Yes_Bang_Dream.png"
 		legacy_lazy_load = no
 	}
 	spriteType = {
-		name = "GFX_ppp_poppin_shuffle"
+		name = "GFX_ppp_Poppin_Shuffle"
 		texturefile = "gfx/ppp_cover/Poppin_Shuffle.png"
 		legacy_lazy_load = no
 	}
 	spriteType = {
-		name = "GFX_ppp_star_beat"
+		name = "GFX_ppp_Star_Beat"
 		texturefile = "gfx/ppp_cover/Star_Beat.png"
 		legacy_lazy_load = no
 	}
 	spriteType = {
-		name = "GFX_ppp_sun_sun_seven"
+		name = "GFX_ppp_Sun_Sun_Seven"
 		texturefile = "gfx/ppp_cover/Sun_Sun_Seven.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_ppp_Hashiri_Hazimetabakari_No_Kimini"
+		texturefile = "gfx/ppp_cover/Hashiri_Hazimetabakari_No_Kimini.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Teardrops"
+		texturefile = "gfx/ppp_cover/Teardrops.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Tokimeki_Experience"
+		texturefile = "gfx/ppp_cover/Tokimeki_Experience.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_One_Thousand_Crying_Skies"
+		texturefile = "gfx/ppp_cover/One_Thousand_Crying_Skies.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Sing_Girls"
+		texturefile = "gfx/ppp_cover/Sing_Girls.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Happy_Happy_Party"
+		texturefile = "gfx/ppp_cover/Happy_Happy_Party.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Keep_On_Moving"
+		texturefile = "gfx/ppp_cover/Keep_On_Moving.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Sunflower_Dreams"
+		texturefile = "gfx/ppp_cover/Sunflower_Dreams.png"
 		legacy_lazy_load = no
 	}
 }
