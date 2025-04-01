@@ -1,0 +1,97 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ag_that_is_how_i_roll"
+		texturefile = "gfx/ag_cover/That_Is_How_I_Roll.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_true_color"
+		texturefile = "gfx/ag_cover/True_Color.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_hey_day"
+		texturefile = "gfx/ag_cover/Hey_Day.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_scarlet_sky"
+		texturefile = "gfx/ag_cover/Scarlet_Sky.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_tied_to_the_skies"
+		texturefile = "gfx/ag_cover/Tied_to_the_Skies.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_jamboree_journey"
+		texturefile = "gfx/ag_cover/Jamboree_Journey.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_yolo"
+		texturefile = "gfx/ag_cover/Yolo.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_comic_panic"
+		texturefile = "gfx/ag_cover/Comic_Panic.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_on_your_mark"
+		texturefile = "gfx/ag_cover/On_Your_Mark.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_rumbling_memory"
+		texturefile = "gfx/ag_cover/Rumbling_Memory.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_easy_come_easy_go"
+		texturefile = "gfx/ag_cover/Easy_Come_Easy_Go.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_same_as_always"
+		texturefile = "gfx/ag_cover/Same_As_Always.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_sasanqua"
+		texturefile = "gfx/ag_cover/Sasanqua.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_i_love_your_way"
+		texturefile = "gfx/ag_cover/I_Love_Your_Way.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_sensenfukoku"
+		texturefile = "gfx/ag_cover/Sensenfukoku.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_i_knew_it"
+		texturefile = "gfx/ag_cover/I_Knew_It.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_red_red_red"
+		texturefile = "gfx/ag_cover/Red_Red_Red.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_one_of_us"
+		texturefile = "gfx/ag_cover/One_Of_Us.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_off_we_go"
+		texturefile = "gfx/ag_cover/Off_We_Go.png"
+		legacy_lazy_load = no
+	}
+}

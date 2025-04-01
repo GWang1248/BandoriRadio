@@ -1,0 +1,116 @@
+music_station = "radio_ag"
+
+music = {
+	song = "AG_That_Is_How_I_Roll"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_True_Color"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Hey_Day"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Scarlet_Sky"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Tied_to_the_Skies"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Jamboree_Journey"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Yolo"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Comic_Panic"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_On_Your_Mark"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Rumbling_Memory"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Easy_Come_Easy_Go"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Same_As_Always"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Sasanqua"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_I_Love_Your_Way"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Sensenfukoku"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_I_Knew_It"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Red_Red_Red"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_One_Of_Us"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Off_We_Go"
+	chance = {
+        base = 10		
+	}
+}
