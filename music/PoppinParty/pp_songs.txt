@@ -1,11 +1,11 @@
 music_station = "radio_ppp_original"
 
-music = {
-	song = "maintheme"
-	chance = {
-		base = 0
-	}
-}
+#music = {
+#	song = "maintheme"
+#	chance = {
+#		base = 0
+#	}
+#}
 music = {
 	song = "PPP_Yes_Bang_Dream"
 	chance = {
