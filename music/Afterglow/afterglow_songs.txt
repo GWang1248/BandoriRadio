@@ -150,3 +150,39 @@ music = {
         base = 10		
 	}
 }
+music = {
+	song = "AG_Sansan"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Thats_Why_Im_Here"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Ignite_Glow"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Petrichor_Ovation"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Made_My_Day"
+	chance = {
+        base = 10		
+	}
+}
+music = {
+	song = "AG_Punchline_Halloween"
+	chance = {
+        base = 10		
+	}
+}

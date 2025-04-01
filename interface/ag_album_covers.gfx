@@ -124,4 +124,34 @@ spriteTypes = {
 		texturefile = "gfx/ag_cover/Sakura_Zensen.png"
 		legacy_lazy_load = no
 	}
+	spriteType = {
+		name = "GFX_ag_sansan"
+		texturefile = "gfx/ag_cover/Sansan.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_thats_why_im_here"
+		texturefile = "gfx/ag_cover/Thats_Why_Im_Here.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_ignite_glow"
+		texturefile = "gfx/ag_cover/Ignite_Glow.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_petrichor_ovation"
+		texturefile = "gfx/ag_cover/Petrichor_Ovation.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_made_my_day"
+		texturefile = "gfx/ag_cover/AG_Made_My_Day.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ag_punchline_halloween"
+		texturefile = "gfx/ag_cover/Punchline_Halloween.png"
+		legacy_lazy_load = no
+	}
 }
