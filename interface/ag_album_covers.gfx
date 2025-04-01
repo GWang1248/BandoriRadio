@@ -146,7 +146,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_ag_made_my_day"
-		texturefile = "gfx/ag_cover/AG_Made_My_Day.png"
+		texturefile = "gfx/ag_cover/Made_My_Day.png"
 		legacy_lazy_load = no
 	}
 	spriteType = {

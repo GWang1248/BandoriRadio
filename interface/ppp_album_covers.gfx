@@ -1,0 +1,22 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ppp_yes_bang_dream"
+		texturefile = "gfx/ppp_cover/Yes_Bang_Dream.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_poppin_shuffle"
+		texturefile = "gfx/ppp_cover/Poppin_Shuffle.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_star_beat"
+		texturefile = "gfx/ppp_cover/Star_Beat.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_sun_sun_seven"
+		texturefile = "gfx/ppp_cover/Sun_Sun_Seven.png"
+		legacy_lazy_load = no
+	}
+}
