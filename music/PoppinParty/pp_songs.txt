@@ -78,3 +78,51 @@ music = {
         base = 10
 	}
 }
+music = {
+	song = "PPP_Time_Lapse"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_If_In_August"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Boom_Through_Summer"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Our_Christmas_Song"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_BOF"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Your_Gift_To_Me"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Circling"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Light_Delight"
+	chance = {
+        base = 10
+	}
+}

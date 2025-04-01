@@ -19,7 +19,6 @@ spriteTypes = {
 		texturefile = "gfx/ppp_cover/Sun_Sun_Seven.png"
 		legacy_lazy_load = no
 	}
-
 	spriteType = {
 		name = "GFX_ppp_Hashiri_Hazimetabakari_No_Kimini"
 		texturefile = "gfx/ppp_cover/Hashiri_Hazimetabakari_No_Kimini.png"
@@ -58,6 +57,46 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_ppp_Sunflower_Dreams"
 		texturefile = "gfx/ppp_cover/Sunflower_Dreams.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Time_Lapse"
+		texturefile = "gfx/ppp_cover/Time_Lapse.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_If_In_August"
+		texturefile = "gfx/ppp_cover/If_In_August.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Boom_Through_Summer"
+		texturefile = "gfx/ppp_cover/Boom_Through_Summer.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Our_Christmas_Song"
+		texturefile = "gfx/ppp_cover/Our_Christmas_Song.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_BOF"
+		texturefile = "gfx/ppp_cover/BOF.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Your_Gift_To_Me"
+		texturefile = "gfx/ppp_cover/Your_Gift_To_Me.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Circling"
+		texturefile = "gfx/ppp_cover/Circling.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Light_Delight"
+		texturefile = "gfx/ppp_cover/Light_Delight.png"
 		legacy_lazy_load = no
 	}
 }
