@@ -129,4 +129,34 @@ spriteTypes = {
 		texturefile = "gfx/ppp_cover/Home_Street.png"
 		legacy_lazy_load = no
 	}
+	spriteType = {
+		name = "GFX_ppp_Choco_Cornet_Love"
+		texturefile = "gfx/ppp_cover/Choco_Cornet_Love.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Jumpin"
+		texturefile = "gfx/ppp_cover/Jumpin.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Whats_the_Popipa"
+		texturefile = "gfx/ppp_cover/Whats_the_Popipa.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Dreamers_Go"
+		texturefile = "gfx/ppp_cover/Dreamers_Go.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Returns"
+		texturefile = "gfx/ppp_cover/Returns.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_No_Girl_No_Cry"
+		texturefile = "gfx/ppp_cover/No_Girl_No_Cry.png"
+		legacy_lazy_load = no
+	}	
 }
