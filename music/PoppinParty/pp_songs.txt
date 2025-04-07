@@ -162,3 +162,39 @@ music = {
         base = 10
 	}
 }
+music = {
+	song = "PPP_Choco_Cornet_Love"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Jumpin"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Whats_the_Popipa"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Dreamers_Go"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Returns"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_No_Girl_No_Cry"
+	chance = {
+        base = 10
+	}
+}

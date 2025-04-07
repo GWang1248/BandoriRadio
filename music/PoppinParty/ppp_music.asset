@@ -135,3 +135,33 @@ music = {
 	file = "PPP_Home_Street.ogg"
 	volume = 0.65
 }
+music = {
+	name = "PPP_Choco_Cornet_Love"
+	file = "PPP_Choco_Cornet_Love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Jumpin"
+	file = "PPP_Jumpin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Whats_the_Popipa"
+	file = "PPP_Whats_the_Popipa.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Dreamers_Go"
+	file = "PPP_Dreamers_Go.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Returns"
+	file = "PPP_Returns.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_No_Girl_No_Cry"
+	file = "PPP_No_Girl_No_Cry.ogg"
+	volume = 0.65
+}
