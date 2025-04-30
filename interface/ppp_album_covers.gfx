@@ -158,5 +158,26 @@ spriteTypes = {
 		name = "GFX_ppp_No_Girl_No_Cry"
 		texturefile = "gfx/ppp_cover/No_Girl_No_Cry.png"
 		legacy_lazy_load = no
-	}	
+	}
+	spriteType = {
+		name = "GFX_ppp_Initial"
+		texturefile = "gfx/ppp_cover/Initial.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Straight_Through_Our_Dreams"
+		texturefile = "gfx/ppp_cover/Straight_Through_Our_Dreams.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Sakura_Memories"
+		texturefile = "gfx/ppp_cover/Sakura_Memories.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Anniversary"
+		texturefile = "gfx/ppp_cover/Anniversary.png"
+		legacy_lazy_load = no
+	}
+	
 }

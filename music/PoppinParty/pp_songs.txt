@@ -198,3 +198,27 @@ music = {
         base = 10
 	}
 }
+music = {
+	song = "PPP_Initial"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Straight_Through_Our_Dreams"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Sakura_Memories"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Anniversary"
+	chance = {
+        base = 10
+	}
+}
