@@ -185,3 +185,43 @@ music = {
 	file = "PPP_Anniversary.ogg"
 	volume = 0.65
 }
+music = {
+	name = "PPP_Breakthrough"
+	file = "PPP_Breakthrough.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Hello_Wink"
+	file = "PPP_Hello_Wink.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Step_Step"
+	file = "PPP_Step_Step.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_White_Afternoon"
+	file = "PPP_White_Afternoon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Kira_Kira_Star"
+	file = "PPP_Kira_Kira_Star.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Mirai_Train"
+	file = "PPP_Mirai_Train.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Photograph"
+	file = "PPP_Photograph.ogg"
+	volume = 0.65
+}
+music = {
+	name = "PPP_Aketara_Dream"
+	file = "PPP_Aketara_Dream.ogg"
+	volume = 0.65
+}

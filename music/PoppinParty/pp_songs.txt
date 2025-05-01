@@ -222,3 +222,51 @@ music = {
         base = 10
 	}
 }
+music = {
+	song = "PPP_Breakthrough"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Hello_Wink"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Step_Step"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_White_Afternoon"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Kira_Kira_Star"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Mirai_Train"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Photograph"
+	chance = {
+        base = 10
+	}
+}
+music = {
+	song = "PPP_Aketara_Dream"
+	chance = {
+        base = 10
+	}
+}

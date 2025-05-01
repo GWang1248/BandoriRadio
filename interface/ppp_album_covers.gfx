@@ -179,5 +179,45 @@ spriteTypes = {
 		texturefile = "gfx/ppp_cover/Anniversary.png"
 		legacy_lazy_load = no
 	}
+	spriteType = {
+		name = "GFX_ppp_Breakthrough"
+		texturefile = "gfx/ppp_cover/Breakthrough.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Hello_Wink"
+		texturefile = "gfx/ppp_cover/Hello_Wink.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Step_Step"
+		texturefile = "gfx/ppp_cover/Step_Step.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_White_Afternoon"
+		texturefile = "gfx/ppp_cover/White_Afternoon.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Kira_Kira_Star"
+		texturefile = "gfx/ppp_cover/Kira_Kira_Star.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Mirai_Train"
+		texturefile = "gfx/ppp_cover/Mirai_Train.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Photograph"
+		texturefile = "gfx/ppp_cover/Photograph.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_ppp_Aketara_Dream"
+		texturefile = "gfx/ppp_cover/Aketara_Dream.png"
+		legacy_lazy_load = no
+	}
 	
 }
